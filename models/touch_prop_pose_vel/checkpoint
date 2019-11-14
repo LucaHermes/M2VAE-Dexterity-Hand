@@ -1,0 +1,2 @@
+model_checkpoint_path: "touch_prop_pose_vel"
+all_model_checkpoint_paths: "touch_prop_pose_vel"
